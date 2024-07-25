@@ -1,0 +1,9 @@
+2024-07-25 11:57:03.176 [info] Extension host with pid 1893 started
+2024-07-25 11:57:03.267 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-25 11:57:03.286 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-25 11:57:03.302 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-25 11:57:03.330 [info] Eager extensions activated
+2024-07-25 11:57:03.336 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-25 11:57:03.338 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-25 11:57:05.396 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-25 11:57:05.402 [info] Extension host with pid 1893 exiting with code 0
